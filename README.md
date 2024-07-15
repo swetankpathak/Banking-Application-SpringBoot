@@ -67,7 +67,8 @@ Delete Account
 
 Endpoint: DELETE /api/accounts/{id}
 Response: String
-Example Request and Response
+
+## Example Request and Response
 Create Account
 
 Request
